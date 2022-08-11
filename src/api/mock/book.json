@@ -27,19 +27,31 @@
             "goodsImg" : "https://res1.vmallres.com/pimages//product/6901443297962/428_428_1555752016264mp.png",
             "goodsId" : "10086586095009",
             "goodsName" : "HUAWEI MateBook X Pro",
-            "goodsPrice" : 7999
+            "goodsPrice" : 7999,
+            "chooseColor" : ["冰河银"],
+            "photoNormal" : "https://res.vmallres.com/pimages//product/6901443333554/428_428_425567487650BEF6BE73040F24E41C61D219680D0D80FDF7mp.png",
+            "photoLarge" : "https://res.vmallres.com/pimages//product/6901443333554/800_800_425567487650BEF6BE73040F24E41C61D219680D0D80FDF7mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/10/10/652AAB657049EC2CBC8F52407B8401D0A5C78BF7955CC5F8.jpg","https://res.vmallres.com/pimages/detailImg/2019/10/09/1AF2EFF202143832F4FE1E2AC2A74B8CC753C5D3271869AC.jpg"]
         },
         {
             "goodsImg" : "https://res1.vmallres.com/pimages//product/6901443344949/428_428_1EB86162660FD51C6430A395BC0441BE2E327990E0343DCFmp.png",
             "goodsId" : "10086774565098",
             "goodsName" : "荣耀 MagicBook Pro 科技尝鲜版",
-            "goodsPrice" : 4199
+            "goodsPrice" : 4199,
+            "chooseColor" : ["冰河银"],
+            "photoNormal" : "https://res.vmallres.com/pimages//product/6901443333554/428_428_425567487650BEF6BE73040F24E41C61D219680D0D80FDF7mp.png",
+            "photoLarge" : "https://res.vmallres.com/pimages//product/6901443333554/800_800_425567487650BEF6BE73040F24E41C61D219680D0D80FDF7mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/10/10/652AAB657049EC2CBC8F52407B8401D0A5C78BF7955CC5F8.jpg","https://res.vmallres.com/pimages/detailImg/2019/10/09/1AF2EFF202143832F4FE1E2AC2A74B8CC753C5D3271869AC.jpg"]
         },
         {
             "goodsImg" : "https://res1.vmallres.com/pimages//product/6901443313198/428_428_1563350288356mp.png",
             "goodsId" : "10086431645343",
             "goodsName" : "【新品】荣耀MagicBook 2019",
-            "goodsPrice" : 3999
+            "goodsPrice" : 3999,
+            "chooseColor" : ["冰河银"],
+            "photoNormal" : "https://res.vmallres.com/pimages//product/6901443333554/428_428_425567487650BEF6BE73040F24E41C61D219680D0D80FDF7mp.png",
+            "photoLarge" : "https://res.vmallres.com/pimages//product/6901443333554/800_800_425567487650BEF6BE73040F24E41C61D219680D0D80FDF7mp.png",
+            "goodsInfo" : ["https://res.vmallres.com/pimages/detailImg/2019/10/10/652AAB657049EC2CBC8F52407B8401D0A5C78BF7955CC5F8.jpg","https://res.vmallres.com/pimages/detailImg/2019/10/09/1AF2EFF202143832F4FE1E2AC2A74B8CC753C5D3271869AC.jpg"]
         }
     ]
 }

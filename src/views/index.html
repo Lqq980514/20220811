@@ -5,8 +5,52 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+   <!-- <script src="../lib/jquery-3.4.1.min.js"></script> -->
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="stylesheet" href="/static/icon/iconfont.css">
+    <script src="/lib/require.js " data-main="/js/index.js"></script>
 </head>
 <body>
-    hello word
+  @include('head.html')
+  @include('banner.html')
+  <div class="wrapper container">
+    <div id="phone" class="goods container">
+      <!-- <h2 class="goods_title">手机</h2>
+      <ul class="goods_list clearfix">
+        <li>
+          <a href="#">
+            <div><img src="/static/img/phone1.png" alt=""></div>
+            <h3>HUAWEI Mate 30 4G</h3>
+            <p>¥4299</p>
+          </a>
+        </li>
+      </ul> -->
+    </div>
+    <div id="book" class="goods container">
+      <!-- <h2 class="goods_title">笔记本</h2>
+      <ul class="goods_list clearfix">
+        <li>
+          <a href="#">
+            <div><img src="/static/img/phone1.png" alt=""></div>
+            <h3>HUAWEI Mate 30 4G</h3>
+            <p>¥4299</p>
+          </a>
+        </li>
+      </ul> -->
+    </div>
+    <div id="pad" class="goods container">
+      <!-- <h2 class="goods_title">平板</h2>
+      <ul class="goods_list clearfix">
+        <li>
+          <a href="#">
+            <div><img src="/static/img/phone1.png" alt=""></div>
+            <h3>HUAWEI Mate 30 4G</h3>
+            <p>¥4299</p>
+          </a>
+        </li>
+      </ul> -->
+    </div>
+  </div>
+  @include('foot.html')
 </body>
 </html>
